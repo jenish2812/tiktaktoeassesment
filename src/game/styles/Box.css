@@ -1,0 +1,7 @@
+.box,
+.box[disabled] {
+  font-size: 50px;
+  color: #333;
+  background-color: white;
+  border-color: #333;
+}
